@@ -1,4 +1,5 @@
-Chinese New Energy Eco-Benefit Demo Software
+**Chinese New Energy Eco-Benefit Demo Software**
+
 The Chinese New Energy Eco-Benefit Demo Software is a 3D GIS-based desktop application built with Electron and Vue.js, designed to visualize and analyze environmental conditions related to desert distribution, sandstorm transmission pathways, and restoration efforts across China.
 It provides interactive, 3D geospatial visualization using CesiumJS for scientific analysis and environmental planning.
 
@@ -7,37 +8,37 @@ It provides interactive, 3D geospatial visualization using CesiumJS for scientif
 /README.md
 
 ✨ Key Features
-Desert Distribution
+**Desert Distribution**
 
 Visualize different terrain types: desert areas, sandy terrain, Gobi desert regions.
 
 Compare and analyze various desert types across China.
 
-Transmission Path
+**Transmission Path**
 
 Explore possible 3D sandstorm transmission routes (West, Northwest, North).
 
 Assess potential impact zones based on wind patterns.
 
-Sand Source Area
+**Sand Source Area**
 
 Visualize sand source regions (e.g., SE Mongolia, Central/East/Central-West Inner Mongolia).
 
 Analyze regional contributions to desertification.
 
-Case Selection
+**Case Selection**
 
 Select specific time ranges to view and analyze historical data trends in desert conditions and sandstorm activity.
 
-Interactive Map Controls
+**Interactive Map Controls**
 
 Zoom, pan, reset view, toggle layers for detailed exploration.
 
-3D Geospatial Data
+**3D Geospatial Data**
 
 Display detailed metrics: coordinates, sea level, pitch, heading, camera height for precise scientific reporting.
 
-🛠 Tech Stack
+**🛠 Tech Stack**
 Electron — for desktop application shell
 
 Vue.js — for frontend framework
@@ -46,7 +47,7 @@ CesiumJS — for 3D geospatial visualization
 
 Node.js — for backend logic within Electron
 
-🚀 Getting Started
+🚀 **Getting Started**
 Prerequisites
 Node.js (v14+ recommended)
 
@@ -70,14 +71,14 @@ Edit
 npm run electron:serve
 👉 This will start both the Electron shell and the Vue.js frontend.
 
-📦 Build for production
+📦 **Build for production**
 bash
 Copy
 Edit
 npm run electron:build
 👉 This will generate platform-specific desktop build artifacts (e.g., .exe, .dmg).
 
-💡 Project Structure
+💡 **Project Structure**
 css
 Copy
 Edit
