@@ -8,29 +8,29 @@ It provides interactive, 3D geospatial visualization using CesiumJS for scientif
 /README.md
 
 ✨ Key Features
-**Desert Distribution**
+A). **Desert Distribution**
 
 Visualize different terrain types: desert areas, sandy terrain, Gobi desert regions.
 
 Compare and analyze various desert types across China.
 
-**Transmission Path**
+B). **Transmission Path**
 
 Explore possible 3D sandstorm transmission routes (West, Northwest, North).
 
 Assess potential impact zones based on wind patterns.
 
-**Sand Source Area**
+C). **Sand Source Area**
 
 Visualize sand source regions (e.g., SE Mongolia, Central/East/Central-West Inner Mongolia).
 
 Analyze regional contributions to desertification.
 
-**Case Selection**
+D). **Case Selection**
 
 Select specific time ranges to view and analyze historical data trends in desert conditions and sandstorm activity.
 
-**Interactive Map Controls**
+E). **Interactive Map Controls**
 
 Zoom, pan, reset view, toggle layers for detailed exploration.
 
