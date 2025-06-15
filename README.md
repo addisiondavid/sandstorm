@@ -8,6 +8,7 @@ It provides interactive, 3D geospatial visualization using CesiumJS for scientif
 /README.md
 
 ✨ Key Features
+
 A). **Desert Distribution**
 
 Visualize different terrain types: desert areas, sandy terrain, Gobi desert regions.
