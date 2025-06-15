@@ -3,9 +3,9 @@
 The Chinese New Energy Eco-Benefit Demo Software is a 3D GIS-based desktop application built with Electron and Vue.js, designed to visualize and analyze environmental conditions related to desert distribution, sandstorm transmission pathways, and restoration efforts across China.
 It provides interactive, 3D geospatial visualization using CesiumJS for scientific analysis and environmental planning.
 
-/screenshots
-  eco-benefit-demo.png
-/README.md
+## 🌄 Demo
+
+![Chinese New Energy Eco-Benefit Demo](https://github.com/addisiondavid/sandstorm/blob/main/sandstorm.PNG?raw=true)
 
 ✨ Key Features
 
